@@ -7,8 +7,8 @@
 На тестирование затрачено: 1
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/dekotamin/credircard/issues/1 
-* https://github.com/dekotamin/credircard/issues/2
+* [Ошибочная валидация Diners Club - Carte Blanche](https://github.com/dekotamin/credircard/issues/1) 
+* [Ошибочная валидация American Express (Amex)](https://github.com/dekotamin/credircard/issues/2)
 
 ## Описание процесса тестирования
 
